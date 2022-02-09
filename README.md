@@ -6,9 +6,8 @@
 
 •	👯 I’m looking to collaborate on scraping/ algorithms to make my work more efficient
 
-•	🤔 I’m looking for help with your Software Development hiring needs. This would make the most sense.
+•	🤔 Looking for help with your career move within Software Development? Contact me. This would make the most sense.
 
 •	💬 Ask me about Interview processes, candidate preparation, interview training and 'signal', eliminating bias, diversity in the workplace. Etc.
 
 •	📫 How to reach me: ron dot kleinmoedig at outlook dot com OR r dot kleinmoedig at amsterdam dot nl
-
