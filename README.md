@@ -10,4 +10,4 @@
 
 •	💬 Ask me about Interview processes, candidate preparation, interview training and 'signal', eliminating bias, diversity in the workplace. Etc.
 
-•	📫 How to reach me: ron dot kleinmoedig at outlook dot com OR r dot kleinmoedig at amsterdam dot nl
+•	📫 How to reach me: ron dot kleinmoedig at outlook dot com
