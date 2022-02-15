@@ -1,6 +1,6 @@
 ### Hi there, appreciate you taking the time to visit my Github page
 
-•	🔭 I’m currently working on hiring skilled Pyton Developers for the City of Amsterdam
+•	🔭 I’m currently working on hiring skilled Pyton Developers for the City of Amsterdam - https://bit.ly/3Bs64c6
 
 •	🌱 I’m currently learning how to master fatherhood
 
