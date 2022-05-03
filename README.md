@@ -8,6 +8,6 @@
 
 •	🤔 Looking for help with your career move within Software Development? Contact me. This would make the most sense.
 
-•	💬 Ask me about Interview processes, candidate preparation, interview training and 'signal', eliminating bias, diversity in the workplace. Etc.
+•	💬 Ask me about Sourcing methods, interview processes, candidate preparation, interview training, eliminating bias, diversity in the workplace. Etc.
 
-•	📫 How to reach me: ron dot kleinmoedig at outlook dot com
+•	📫 How to reach me: r dot kleinmoedig at Amsterdam dot nl
