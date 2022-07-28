@@ -1,6 +1,6 @@
 ### Hi there, appreciate you taking the time to visit my Github page
 
-•	🔭 I’m currently working on hiring skilled Developers for the City of Rotterdam
+•	🔭 I’m currently working on hiring skilled Developers for the City of Amsterdam
 
 •	🌱 I’m currently learning how to master fatherhood
 
