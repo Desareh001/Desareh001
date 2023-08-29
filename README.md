@@ -1,6 +1,6 @@
 ### Hi there, appreciate you taking the time to visit my Github page
 
-•	🔭 I’m currently working on hiring skilled Developers for the City of Amsterdam
+•	🔭 I’m currently working on hiring skilled Developers for the IND @ The Ministry of Justice and Security
 
 •	🌱 I’m currently learning how to master fatherhood
 
@@ -10,4 +10,4 @@
 
 •	💬 Ask me about Sourcing methods, interview processes, candidate preparation, interview training, eliminating bias, diversity in the workplace. Etc.
 
-•	📫 How to reach me: r dot kleinmoedig at Amsterdam dot nl
+•	📫 How to reach me: r dot r dot r dot kleinmoedig at ind dot nl
