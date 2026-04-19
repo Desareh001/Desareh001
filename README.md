@@ -1,6 +1,6 @@
 ### Hi there, appreciate you taking the time to visit my Github page
 
-•	🔭 I’m currently working on hiring skilled Developers and Software Testers for the IND @ The Ministry of Justice and Security
+•	🔭 Founder @ Software Testers Guild | Building a community for modern software quality engineering
 
 •	🌱 I’m currently learning how to master fatherhood
 
@@ -10,4 +10,4 @@
 
 •	💬 Ask me about Sourcing methods, interview processes, candidate preparation, interview training, eliminating bias, diversity and inclusion.
 
-•	📫 How to reach me: r dot r dot r dot kleinmoedig at ind dot nl
+•	📫 How to reach me: ron dot kleinmoedig at softwaretestersguild dot nl
