@@ -30,6 +30,7 @@ This platform is built to fix that.
 •	a growing community of testers
 
 👉 Explore opportunities
+
 👉 Stay close to where QA is heading
 
 ### 🏢 For Companies
