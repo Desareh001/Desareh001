@@ -1,6 +1,6 @@
 ## Hi there, I'm Ron
 
-## Founder of Software Testers Guild.
+#### Founder of Software Testers Guild.
 Building a focused platform for QA & Software Testing professionals in the Netherlands — expanding into Germany & Belgium.
 
 ### 🎯 Why this exists
