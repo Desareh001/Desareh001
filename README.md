@@ -65,7 +65,7 @@ I regularly share practical insights on:
 
 👉 Built for testers who want to stay ahead — not fall behind
 
-## 🌐 Platform
+### 🌐 Platform
 https://softwaretestersguild.nl
 
 ### 📫 Get in touch
