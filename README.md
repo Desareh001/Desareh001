@@ -3,6 +3,7 @@
 #### Founder of Software Testers Guild.
 Building a focused platform for QA & Software Testing professionals in the Netherlands — expanding into Germany & Belgium.
 
+
 ### 🎯 Why this exists
 
 Most job platforms treat software testing as a side category.
@@ -12,6 +13,7 @@ Finding the right QA role — or the right QA engineer — is harder than it sho
 
 So I’m building something different:
 A dedicated ecosystem for software testers.
+
 
 ### 👨‍💻 For Software Testers
 
@@ -33,6 +35,7 @@ This platform is built to fix that.
 
 👉 Stay close to where QA is heading
 
+
 ### 🏢 For Companies
 
 Hiring QA Engineers or Software Testers?
@@ -46,7 +49,9 @@ You need the right ones.
 •	reduce mismatch and hiring friction
 
 👉 Reach hard-to-find QA talent
+
 👉 Improve candidate quality
+
 
 ### 🔧 What I’m building (and exploring on GitHub)
 
@@ -57,6 +62,7 @@ To make this platform smarter and more relevant, I’m working on:
 
 👉 Always open to connect with developers & testers working on similar challenges
 
+
 ### 📊 Articles & Insights
 
 I regularly share practical insights on:
@@ -66,8 +72,10 @@ I regularly share practical insights on:
 
 👉 Built for testers who want to stay ahead — not fall behind
 
+
 ### 🌐 Platform
 https://softwaretestersguild.nl
+
 
 ### 📫 Get in touch
 ron [dot] kleinmoedig [at] softwaretestersguild [dot] nl
